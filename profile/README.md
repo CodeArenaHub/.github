@@ -2,12 +2,12 @@
 
 Where we love to code
 
-<img  alt="logo" src="images/6317-icon-iteration-animation-code.gif" width="100" height="100">
+<img  alt="logo" src="https://i.ibb.co/KyMmNKj/6317-icon-iteration-animation-code.gif" width="100" height="100">
 <hr/>
 
-<img alt="People" src="images/people.png" width="200" height="50">
+![alt text](https://i.ibb.co/yRXzDQ9/people.png)
+![alt text](https://i.ibb.co/T4sN0Vc/Banner.jpg)
 
-<img align="center" class="center" alt="Banner" src="images/Banner.png" width="800" height="250">
 <hr/>
 
 We currently Work on
