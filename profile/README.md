@@ -6,8 +6,8 @@ Where we love to code
 <hr/>
 
 ![alt text](https://i.ibb.co/yRXzDQ9/people.png)
-![alt text](https://i.ibb.co/T4sN0Vc/Banner.jpg)
 
+<img align="center" class="center" alt="Banner" src="https://i.ibb.co/T4sN0Vc/Banner.jpg" width="800" height="250">
 <hr/>
 
 We currently Work on
