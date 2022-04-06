@@ -19,4 +19,6 @@ We currently Work on
 Our projects include
 
 - In Progress
+  Expo Github Project
+  Expo Project
   Expo Project
